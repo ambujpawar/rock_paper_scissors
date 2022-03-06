@@ -1,0 +1,6 @@
+*.pt
+*.jpg
+*.h5
+*.idea/
+*.ipynb_checkpoints/
+dataset/
